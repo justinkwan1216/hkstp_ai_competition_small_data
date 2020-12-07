@@ -1,0 +1,26 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>B28.jpg</filename>
+  <path>/home/jk-pc/Downloads/5f347c86-93b0-4e18-acc8-7366ec998405/synthetic/B28.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>977</xmin>
+      <ymin>644</ymin>
+      <xmax>1933</xmax>
+      <ymax>2574</ymax>
+    </bndbox>
+  </object>
+</annotation>

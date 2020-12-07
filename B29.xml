@@ -1,0 +1,26 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>B29.jpg</filename>
+  <path>/home/jk-pc/Downloads/5f347c86-93b0-4e18-acc8-7366ec998405/synthetic/B29.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1592</xmin>
+      <ymin>390</ymin>
+      <xmax>1725</xmax>
+      <ymax>2486</ymax>
+    </bndbox>
+  </object>
+</annotation>

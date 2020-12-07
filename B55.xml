@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>B55.jpg</filename>
+  <path>/home/jk-pc/Downloads/5f347c86-93b0-4e18-acc8-7366ec998405/synthetic/B55.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2329</xmin>
+      <ymin>1479</ymin>
+      <xmax>3383</xmax>
+      <ymax>1662</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2273</xmin>
+      <ymin>694</ymin>
+      <xmax>3243</xmax>
+      <ymax>844</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1958</xmin>
+      <ymin>904</ymin>
+      <xmax>3608</xmax>
+      <ymax>1344</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>668</xmin>
+      <ymin>2209</ymin>
+      <xmax>2163</xmax>
+      <ymax>2424</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>708</xmin>
+      <ymin>1679</ymin>
+      <xmax>2228</xmax>
+      <ymax>1844</ymax>
+    </bndbox>
+  </object>
+</annotation>

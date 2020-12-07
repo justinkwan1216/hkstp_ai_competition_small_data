@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>B59.jpg</filename>
+  <path>/home/jk-pc/Downloads/5f347c86-93b0-4e18-acc8-7366ec998405/synthetic/B59.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1298</xmin>
+      <ymin>884</ymin>
+      <xmax>1418</xmax>
+      <ymax>2394</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1483</xmin>
+      <ymin>1099</ymin>
+      <xmax>1733</xmax>
+      <ymax>2074</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2668</xmin>
+      <ymin>979</ymin>
+      <xmax>3033</xmax>
+      <ymax>2434</ymax>
+    </bndbox>
+  </object>
+</annotation>
